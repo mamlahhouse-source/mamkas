@@ -1,0 +1,4 @@
+MAMLAH KASIR - VERSI 3.0 PRO
+Fitur baru: HPP detail bahan baku + resep otomatis, stok bahan auto-kurang, Omzet Merchant online (kotor & bersih), Keuangan & laba rugi (pengeluaran + belanja bahan auto stok), Laporan Closing All Print, struk rata kiri (qty & harga jelas), tampilan modern.
+Stack: Electron + React (Vite), data lokal (localStorage).
+Build: siap `npm run electron:build:win`
